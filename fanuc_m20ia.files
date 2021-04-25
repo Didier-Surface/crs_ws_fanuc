@@ -1,3 +1,5 @@
+.gitignore
+README.md
 build/bullet3/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c
 build/bullet3/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
 build/bullet3/CMakeFiles/feature_tests.c

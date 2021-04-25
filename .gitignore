@@ -1,0 +1,10 @@
+build
+install
+log
+fanuc_m20ia.cflags
+fanuc_m20ia.config
+fanuc_m20ia.creator
+fanuc_m20ia.cxxflags
+fanuc_m20ia.files
+fanuc_m20ia.includes
+resources.qrc
